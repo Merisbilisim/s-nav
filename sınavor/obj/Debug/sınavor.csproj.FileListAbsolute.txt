@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sınavor\sınavor\bin\Debug\sınavor.exe.config
+C:\Users\User\source\repos\sınavor\sınavor\bin\Debug\sınavor.exe
+C:\Users\User\source\repos\sınavor\sınavor\bin\Debug\sınavor.pdb
+C:\Users\User\source\repos\sınavor\sınavor\obj\Debug\sınavor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sınavor\sınavor\obj\Debug\sınavor.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sınavor\sınavor\obj\Debug\sınavor.Form1.resources
+C:\Users\User\source\repos\sınavor\sınavor\obj\Debug\sınavor.Properties.Resources.resources
+C:\Users\User\source\repos\sınavor\sınavor\obj\Debug\sınavor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sınavor\sınavor\obj\Debug\sınavor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sınavor\sınavor\obj\Debug\sınavor.exe
+C:\Users\User\source\repos\sınavor\sınavor\obj\Debug\sınavor.pdb
